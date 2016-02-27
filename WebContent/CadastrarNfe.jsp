@@ -17,9 +17,9 @@
 </nav>
 	<form method="post" action="CadastrandoNfe">
 		
-		Id<input type="text" name="id">
-		Numero Nfe<input type="text" name="numero">
-		Quantidade<input type="text" name="quantidade">
+		Id :<input type="text" name="id">
+		Numero Nfe :<input type="text" name="numero">
+		Quantidade :<input type="text" name="quantidade">
 		
 		<input type="submit" value="Cadastrar">
 	</form>

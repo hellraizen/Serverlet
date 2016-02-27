@@ -16,7 +16,7 @@
 	</ul>
 </nav>
 	<form method="post" action="ConecEstoque">
-		Nome do Produto<input type="text" name="nome">
+		Nome do Produto :<input type="text" name="nome">
 		
 		<input type="submit" value="Cadastrar">
 	</form>
